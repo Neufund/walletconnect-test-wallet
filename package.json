@@ -1,6 +1,6 @@
 {
   "name": "walletconnect-test-wallet",
-  "version": "1.0.0-beta.35",
+  "version": "1.0.0-beta.39",
   "private": true,
   "keywords": [
     "walletconnect",
@@ -25,8 +25,8 @@
     "url": "https://github.com/walletconnect/walletconnect-test-wallet/issues"
   },
   "dependencies": {
-    "@connext/client": "0.0.19",
-    "@walletconnect/browser": "^1.0.0-beta.35",
+    "@connext/client": "1.0.4",
+    "@walletconnect/browser": "^1.0.0-beta.39",
     "axios": "^0.18.0",
     "bignumber.js": "^8.0.1",
     "ethers": "^4.0.26",
@@ -47,7 +47,7 @@
     "@types/react-dom": "^16.0.11",
     "@types/react-qr-reader": "^2.1.2",
     "@types/styled-components": "4.1.8",
-    "typescript": "=3.4.5"
+    "typescript": "^3.7.2"
   },
   "eslintConfig": {
     "extends": "react-app"
